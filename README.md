@@ -6,6 +6,7 @@
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
     <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white">
     <br>
+    <br>
     <p>CODING STACK</p>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
@@ -15,6 +16,7 @@
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white">
+    <br>
     <br>
     <p>DISIGN STACK</p>
     <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665">
